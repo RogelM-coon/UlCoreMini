@@ -1,0 +1,12 @@
+{
+  "name": "minicore",
+  "author": "Dr°Malito°U*L",
+  "version": "1.0",
+  "minVersion": "1.13.17 alpha 108",
+  "supportedVersion": "1.13.17 alpha 108",
+  "features": [
+  	"eu.darkbot.drmalito.minicore.MiniTrain"
+
+
+  ]
+}
