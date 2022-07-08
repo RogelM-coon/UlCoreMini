@@ -8,5 +8,7 @@
   	"eu.darkbot.drmalito.minicore.MiniTrain"
 
 
-  ]
+  ],
+  "download": "https://github.com/RogelM-coon/UlCoreMini/releases/download/MinicoreRelase/MiniCore.jar",
+	"update": "https://raw.githubusercontent.com/darkbot-reloaded/DefaultPlugin/master/src/main/resources/plugin.json"
 }
