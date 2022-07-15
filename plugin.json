@@ -1,11 +1,11 @@
 {
   "name": "MiniCore",
   "author": "Dr°Malito°U*L",
-  "version": "1.1",
+  "version": "1.2",
   "minVersion": "1.13.17 alpha 108",
   "supportedVersion": "1.13.17 alpha 108",
   "features": [
-  	"eu.darkbot.drmalito.minicore.MiniTrain",
+  	"eu.darkbot.drmalito.minicore.MiniTrain"
   	
   ],
   "download": "https://github.com/RogelM-coon/UlCoreMini/releases/download/MinicoreRelase/MiniCore.jar",
