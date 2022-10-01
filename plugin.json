@@ -1,7 +1,7 @@
 {
   "name": "MiniCore",
   "author": "Dr°Malito°U*L",
-  "version": "1.3.16",
+  "version": "1.3.18",
   "minVersion": "1.13.17 alpha 108",
   "supportedVersion": "1.13.17 alpha 108",
   "features": [
@@ -9,7 +9,7 @@
   	"eu.darkbot.drmalito.minicore.Pet",
   	"eu.darkbot.drmalito.minicore.FormationChanger",
   	"eu.darkbot.drmalito.minicore.SmartAbilitys"
-
+  	
   ],
   "download": "https://github.com/RogelM-coon/UlCoreMini/releases/download/MinicoreRelase/MiniCore.jar",
 	"update": "https://raw.githubusercontent.com/RogelM-coon/UlCoreMini/main/plugin.json?token=GHSAT0AAAAAABV72J5TGDOQEA4CYPCXVS5GYWILSMA"
