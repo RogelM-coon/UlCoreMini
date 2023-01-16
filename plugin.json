@@ -1,15 +1,16 @@
 {
   "name": "MiniCore",
   "author": "Dr°Malito°U*L",
-  "version": "1.4.1",
-  "minVersion": "1.13.17 alpha 111",
+  "version": "1.4.2",
+  "minVersion": "1.13.17 alpha 112",
   "supportedVersion": "1.13.17 alpha 112",
+  "basePackage": "eu.darkbot.drmalito.minicore",
   "features": [
   	"eu.darkbot.drmalito.minicore.MiniTrain",
   	"eu.darkbot.drmalito.minicore.Pet",
   	"eu.darkbot.drmalito.minicore.FormationChanger",
-  	"eu.darkbot.drmalito.minicore.SmartAbilitys"
-  	
+  	"eu.darkbot.drmalito.minicore.SmartAbilitys",
+    "eu.darkbot.drmalito.minicore.AmmoSupplier"
   ],
   "download": "https://github.com/RogelM-coon/UlCoreMini/releases/download/MinicoreRelase/MiniCore.jar",
 	"update": "https://raw.githubusercontent.com/RogelM-coon/UlCoreMini/main/plugin.json?token=GHSAT0AAAAAABV72J5TGDOQEA4CYPCXVS5GYWILSMA"
