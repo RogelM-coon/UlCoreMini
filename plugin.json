@@ -1,7 +1,7 @@
 {
   "name": "MiniCore",
   "author": "Dr°Malito°U*L",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "minVersion": "1.125",
   "supportedVersion": "1.126",
   "basePackage": "eu.darkbot.drmalito.minicore",
